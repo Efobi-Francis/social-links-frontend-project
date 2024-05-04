@@ -13,3 +13,9 @@ li{
     height: 45px;
     border-radius: 10px;
 }
+
+li:hover {
+    background-color: hsl(75,94%,57%);
+    cursor: pointer;
+    color: hsl(0,0%,8%);
+}
